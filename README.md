@@ -18,7 +18,7 @@ The repository includes the following files:
 
 - `BTC_Price_Analysis.pbix`: The main Power BI report file containing the visualizations and insights.
 - `README.md`: This file, providing an overview of the project and how to use it.
-- `Data Source`: A folder containing the Bitcoin price dataset used for the analysis.
+- `BTC-USD.csv`: The Bitcoin price dataset used for the analysis.
 
 ## How to Use
 
